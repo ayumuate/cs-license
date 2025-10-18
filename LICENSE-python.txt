@@ -1,0 +1,63 @@
+CLASSMATE SHARING LICENSE AGREEMENT v1.0
+
+PREAMBLE
+This Classmate Sharing License Agreement ("License") governs the use, reproduction, modification, and distribution of the accompanying source code ("Code"). By exercising any rights to the Code, you accept and agree to be bound by the terms of this License.
+
+1. DEFINITIONS
+- "Code" refers to the Python source code files, documentation, and other related materials.
+- "You" means the individual exercising rights under this License.
+- "Author" refers to the original creator of the Code.
+- "Teacher" means any instructor, professor, teaching assistant, or other academic staff involved in course instruction or evaluation.
+- "School" means the educational institution where the Code is being used or distributed.
+
+2. GRANT OF RIGHTS
+Subject to the terms and conditions of this License, the Author hereby grants You a worldwide, royalty-free, non-exclusive, perpetual license to:
+- Reproduce and use the Code for any non-commercial purpose
+- Prepare derivative works based upon the Code
+- Distribute copies of the Code or derivative works
+
+3. CONDITIONS AND LIMITATIONS
+
+3.1 CONFIDENTIALITY OBLIGATION
+You expressly agree not to disclose the Code or any information relating to it (including but not limited to the fact that You have obtained or used the Code) to any Teacher, School official, or any third party involved in academic evaluation. This confidentiality obligation survives termination of this License and continues indefinitely.
+
+3.2 ATTRIBUTION REQUIREMENT
+When distributing the Code or derivative works, You must:
+- Retain all copyright notices and attribution to the Original Author
+- Include this License in its entirety
+- Clearly indicate if changes were made
+
+3.3 SHARE-ALIKE REQUIREMENT
+Any derivative works You create must be distributed under the same license terms as this License, including all conditions and limitations herein.
+
+3.4 DISTRIBUTION SCOPE
+Distribution of the Code is permitted only:
+- Among classmates for academic reference purposes
+- Through non-public channels (e.g., private WeChat messages or groups)
+- For non-commercial purposes
+
+3.5 PROHIBITED DISTRIBUTIONS
+You are expressly prohibited from:
+- Publishing the Code on public platforms (including but not limited to GitHub, public forums, blogs, or School systems)
+- Distributing the Code to Teachers or School officials
+- Using the Code for commercial purposes
+
+4. DISCLAIMER OF WARRANTY
+THE CODE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE CODE OR THE USE OR OTHER DEALINGS IN THE CODE.
+
+5. LIMITATION OF LIABILITY
+THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, ACADEMIC PENALTIES, DISCIPLINARY ACTION, REPUTATIONAL HARM, OR ANY OTHER ADVERSE CONSEQUENCES) ARISING FROM THE USE, MODIFICATION, OR DISTRIBUTION OF THE CODE.
+
+6. TERMINATION
+This License and the rights granted herein will terminate automatically upon any breach of the terms and conditions, particularly but not limited to breaches of the confidentiality obligation under Section 3.1. Upon termination, You must cease all use and distribution of the Code and destroy all copies in Your possession.
+
+7. MISCELLANEOUS
+- This License constitutes the entire agreement between the parties concerning the Code
+- If any provision of this License is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect
+- No term of this License shall be deemed waived unless such waiver is in writing and signed by the Author
+- This License shall be governed by the laws of the Author's jurisdiction, without regard to its conflict of law provisions
+
+8. ACCEPTANCE
+By exercising any rights to the Code, You acknowledge that You have read, understood, and agree to be bound by the terms and conditions of this License. If You do not agree to these terms, You may not use, modify, or distribute the Code.
+
+This license is specifically drafted for academic sharing among classmates and includes unique provisions not found in standard open source licenses. It is recommended to consult with legal counsel before relying on this license for important matters.
